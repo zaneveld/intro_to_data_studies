@@ -18,13 +18,16 @@ In it's first iteration, this course will draw on new material developed specifi
 -  [A Tour of Python Syntax (functions, conditions, iteration, classes)](https://nbviewer.jupyter.org/github/zaneveld/full_spectrum_bioinformatics/blob/master/content/04_exploring_python/A_Tour_of_Python_Syntax.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaneveld/full_spectrum_bioinformatics/blob/master/content/04_exploring_python/A_Tour_of_Python_Syntax.ipynb) 
 
+## Working with Tabular Data
+
+
 ## Project Design
 
  - [Using Literature Surveys to Ask Good Questions and Propose Testable Hypotheses](https://nbviewer.jupyter.org/github/zaneveld/full_spectrum_bioinformatics/blob/master/content/05_project_design/project_design.ipynb) 
        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaneveld/full_spectrum_bioinformatics/blob/master/content/05_project_design/project_design.ipynb)
        
 ## Data Visualization
- - [**Exercise**: Is this Drug Working? (Quick and dirty data loading, separating, and plotting data using Pandas DataFrames and basic python)](https://nbviewer.jupyter.org/github/zaneveld/intro_to_data_studies/blob/main/content/tabular_data/exercise_is_this_drug_working.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaneveld/full_spectrum_bioinformatics/blob/master/content/09_visualization/anger_tufte.ipynb)
+ - [**Exercise**: Is this Drug Working? (Quick and dirty data loading, separating, and plotting data using Pandas DataFrames and basic python)](https://nbviewer.jupyter.org/github/zaneveld/intro_to_data_studies/blob/main/content/tabular_data/exercise_is_this_drug_working.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaneveld/intro_to_data_studies/blob/main/content/tabular_data/exercise_is_this_drug_working.ipynb)
  - [**Exercise**: Anger Tufte](https://nbviewer.jupyter.org/github/zaneveld/full_spectrum_bioinformatics/blob/master/content/09_visualization/anger_tufte.ipynb)
        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaneveld/full_spectrum_bioinformatics/blob/master/content/09_visualization/anger_tufte.ipynb)
        
