@@ -25,6 +25,7 @@ In it's first iteration, this course will draw on new material developed specifi
 
  - [Using Literature Surveys to Ask Good Questions and Propose Testable Hypotheses](https://nbviewer.jupyter.org/github/zaneveld/full_spectrum_bioinformatics/blob/master/content/05_project_design/project_design.ipynb) 
        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaneveld/full_spectrum_bioinformatics/blob/master/content/05_project_design/project_design.ipynb)
+ - [Write a Literature Synthesis ... and get your Introduction for Free!](https://nbviewer.org/github/zaneveld/full_spectrum_bioinformatics/blob/master/content/05_project_design/literature_synthesis.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaneveld/full_spectrum_bioinformatics/blob/master/content/05_project_design/literature_synthesis.ipynb)       
        
 ## Data Visualization
  - [**Exercise**: Is this Drug Working? (Quick and dirty data loading, separating, and plotting data using Pandas DataFrames and basic python)](https://nbviewer.jupyter.org/github/zaneveld/intro_to_data_studies/blob/main/content/tabular_data/exercise_is_this_drug_working.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaneveld/intro_to_data_studies/blob/main/content/tabular_data/exercise_is_this_drug_working.ipynb)
