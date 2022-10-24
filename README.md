@@ -2,7 +2,7 @@
 
 This repository holds code and text for B DATA200, a class that introduces data analytics and data science using applied projects.
 
-In it's first iteration, this course will draw on new material developed specifically for the course, external articles, and material on general python coding from Full Spectrum Bioinformatics. 
+(Note: In its first iteration, this course will draw on new material developed specifically for the course, external articles, and material on general python coding from Full Spectrum Bioinformatics, an open-source bioinformatics text. However, the coding techniques discussed are useful across fields.).
 
 ## Building our Toolkit: A Brief Introduction to Python and the Command Line
 - [Using the Command Line](https://nbviewer.jupyter.org/github/zaneveld/full_spectrum_bioinformatics/blob/master/content/03_the_command_line/the_commandline.ipynb)
